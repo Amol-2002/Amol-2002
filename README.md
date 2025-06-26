@@ -1,5 +1,7 @@
+
 <h1 align="center">Hey 👋, I'm Amol Bagul</h1>
-<h3 align="center">Web Developer | UI/UX Enthusiast | Fitness & Tech Lover 💪💻</h3>
+<h3 align="center">Web Developer | java developer | Fitness & Tech Lover 💪💻</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amol-2002&label=Profile%20views&color=0e75b6&style=flat" alt="amol-2002" /> </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding" />
@@ -13,6 +15,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, UI animations**
 - 📫 Reach me at **amolbagul947@gmail.com**
 - ⚡ Fun fact: **I love mixing design, code, and fitness!**
+- 📄 Know about my experiences https://drive.google.com/file/d/13HFWVt6CfFcOtbxYxFOnHcd1-yoXLxcm/view?usp=drivesdk
 
 ---
 
@@ -21,6 +24,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,vscode,figma,github" />
 </p>
+
 
 ---
 
@@ -74,7 +78,4 @@
 ---
 
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/Amol-2002/Amol-2002/blob/output/github-contribution-grid-snake.svg)
 
