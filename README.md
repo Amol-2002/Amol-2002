@@ -9,8 +9,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Scool website BHKM School**
-- 🧑‍💻 Intern at **TRIFRND Pvt. Ltd, Pune** Project : https://testing.trifrnd.net.in/amol/college/school.html#
+- 🔭 I’m currently working on Project : https://testing.trifrnd.net.in/amol/college/school.html#
+- 🧑‍💻 Intern at **TRIFRND Pvt. Ltd, Pune**
 - 🌱 Learning **React.js, MongoDB, and Tailwind CSS**
 - 💬 Ask me about **HTML, CSS, JavaScript, UI animations**
 - 📫 Reach me at **amolbagul947@gmail.com**
