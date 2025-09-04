@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Amol Bagul</h1>
-<h3 align="center">Web Developer | java developer | Fitness & Tech Lover 💪💻</h3>
+<h3 align="center">Web Developer | java developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol-2002&label=Profile%20views&color=0e75b6&style=flat" alt="amol-2002" /> </p>
 
 <p align="center">
