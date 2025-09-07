@@ -1,6 +1,5 @@
-
 <h1 align="center">Hey 👋, I'm Amol Bagul</h1>
-<h3 align="center">Web Developer | java developer</h3>
+<h3 align="center">Web Developer | Java Developer | Aspiring Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol-2002&label=Profile%20views&color=0e75b6&style=flat" alt="amol-2002" /> </p>
 
 <p align="center">
@@ -11,20 +10,27 @@
 
 - 🔭 I’m currently working on Project : https://testing.trifrnd.net.in/amol/college/school.html#
 - 🧑‍💻 Intern at **TRIFRND Pvt. Ltd, Pune**
-- 🌱 Learning **React.js, MongoDB, and Tailwind CSS**
+- 🌱 Learning **React.js, MongoDB, and Android Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, UI animations**
 - 📫 Reach me at **amolbagul947@gmail.com**
-- ⚡ Fun fact: **I love mixing design, code, and fitness!**
-- 📄 Know about my experiences https://drive.google.com/file/d/13HFWVt6CfFcOtbxYxFOnHcd1-yoXLxcm/view?usp=drivesdk
+- ⚡ Fun fact: **I love mixing design, code**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13HFWVt6CfFcOtbxYxFOnHcd1-yoXLxcm/view?usp=drivesdk)
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,androidstudio,vscode,figma,github" />
 </p>
 
+---
+
+### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react,mongodb" />
+</p>
 
 ---
 
@@ -74,8 +80,3 @@
 ### 💡 Quote
 
 > "Discipline is choosing between what you want now and what you want most." – Abraham Lincoln
-
----
-
-
-
